@@ -1,0 +1,22 @@
+[
+    {
+        "title": "🔍 Face Recognition System",
+        "description": "Developed a Face Recognition System using Python and Microsoft Azure Services to enhance security and identity verification.",
+        "github": "your-github-link"
+    },
+    {
+        "title": "💻 Web-Based Inventory Management System",
+        "description": "Designed an Inventory Management System using PHP, MySQL, and JavaScript, enabling businesses to efficiently track stock levels and generate reports.",
+        "github": "your-github-link"
+    },
+    {
+        "title": "🌍 E-Learning Platform",
+        "description": "Created an E-Learning Platform using JavaScript, PHP, and MySQL to facilitate remote education, allowing students to access courses, quizzes, and assignments.",
+        "github": "your-github-link"
+    },
+    {
+        "title": "📊 Data Visualization Dashboard",
+        "description": "Developed an interactive Data Visualization Dashboard using Python (Flask) and JavaScript (Chart.js) to provide real-time insights for businesses.",
+        "github": "your-github-link"
+    }
+]
